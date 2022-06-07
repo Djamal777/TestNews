@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestNews</string>
+    <string name="refresh">Обновить</string>
+</resources>
